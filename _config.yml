@@ -27,6 +27,8 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+title: Ashwin Rajesh
+description: My personal website!
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
