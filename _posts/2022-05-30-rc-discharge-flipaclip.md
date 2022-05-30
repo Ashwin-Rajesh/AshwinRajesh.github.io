@@ -11,4 +11,4 @@ tags:
 summary: 
 ---
 
-![](../assets/videos/RC_Discharge_FlipAClip.mp4)
+![](/assets/videos/RC_Discharge_FlipAClip.mp4)
