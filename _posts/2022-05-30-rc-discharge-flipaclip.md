@@ -23,6 +23,6 @@ Here I have tried to demostrate the analogy of a simple capacitor discharging an
 
 ## Animation
 
-![](/assets/videos/RC_Discharge_FlipAClip.mp4)
+![Animation video](assets/videos/RC_Discharge_FlipAClip.mp4)
 
 This was made quite painstakingly using the app, "Flip A Clip". Im not really a good artist so its quite shabby in places.
