@@ -62,7 +62,7 @@ plugins:
 
 author:
   name   : "Ashwin Rajesh"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "Electronics engineer learning about VLSI design. Computerphile and Space geek"
   links:
     - label: "Website"
