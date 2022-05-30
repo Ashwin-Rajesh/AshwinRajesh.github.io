@@ -61,22 +61,19 @@ plugins:
   - jekyll-spaceship
 
 author:
-  name   : "First Lastname"
+  name   : "Ashwin Rajesh"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Electronics engineer learning about VLSI design | Computerphile | Space geek"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/Ashwin-Rajesh"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/_ashwin_rajesh_/"
 
 footer:
   links:
