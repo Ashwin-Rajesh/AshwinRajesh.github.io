@@ -1,6 +1,5 @@
 ---
 title: "RC Discharge Analogy Animation"
-date: 2022-05-30 23:40
 category: 
   - Electronics
 author: 

@@ -1,9 +1,8 @@
 ---
 title: "First Post"
 category:
-  - cat1
 tags:
-  - tag1
+toc: true
 ---
 
 ## Hello there!
