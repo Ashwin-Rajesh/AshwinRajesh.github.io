@@ -13,11 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-email:
-twitter_username: username
-github_username: username
+email: aswinrajesh1@gmail.com
+github_username: Ashiwn-Rajesh
 minimal_mistakes_skin: dark
 search: true
+
+repository: "Ashwin-Rajesh/ashwin-rajesh.github.io"
+read_time: false
 
 # Build settings
 markdown: kramdown
@@ -76,15 +78,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/Ashwin-Rajesh"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ashwinrajesh/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/_ashwin_rajesh_/"
 
 defaults:
   # _posts
