@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: "First post"
 date: 2022-05-30 23:29
 category: 
   - Update
