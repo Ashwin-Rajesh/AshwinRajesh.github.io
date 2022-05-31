@@ -23,23 +23,10 @@ Here I have tried to demostrate the analogy of a simple capacitor discharging an
 
 ## Animation
 
-$ x = a^2 + b^2 $
-
-$$ x = \frac{a}{b} $$
-
-\begin{equation}
-\begin{aligned}
-  {X}_{0} (does not always work)
-  {X}\_{0} (works)
-  X_0 (works)
-  \hat{a}_{b} (does not always work)
-  \hat{a}_b (works)
-  \hat{a}_{b+c} (works)
-\end{aligned}
-\end{equation}
-
-test2
-
 <video src="/assets/videos/RC_Discharge_FlipAClip.mp4" controls="controls" style="max-width: 730px;"><video>
+
+The discharging is determined by the equation
+
+$$ V_C + C.\frac{dV_C}{dt} = V_inp$$
 
 This was made quite painstakingly using the app, "Flip A Clip". Im not really a good artist so its quite shabby in places.
