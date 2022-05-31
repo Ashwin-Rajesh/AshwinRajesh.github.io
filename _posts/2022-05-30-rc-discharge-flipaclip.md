@@ -24,6 +24,7 @@ Here I have tried to demostrate the analogy of a simple capacitor discharging an
 ## Animation
 
 $ x = a^2 + b^2 $
+$$ x = /frac{a}{b} $$
 
 test test
 
