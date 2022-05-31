@@ -23,10 +23,8 @@ Here I have tried to demostrate the analogy of a simple capacitor discharging an
 
 ## Animation
 
-<video src="/assets/videos/RC_Discharge_FlipAClip.mp4" controls="controls" style="max-width: 730px;"><video>
+<video src="/assets/videos/RC_Discharge_FlipAClip.mp4" controls="controls" style="max-width: 730px;"></video>
 
 The discharging is determined by the equation
 
-$$ V_C + C.\frac{dV_C}{dt} = V_inp$$
-
-This was made quite painstakingly using the app, "Flip A Clip". Im not really a good artist so its quite shabby in places.
+$$ V_C + C.\frac{dV_C}{dt} = V_inp $$
