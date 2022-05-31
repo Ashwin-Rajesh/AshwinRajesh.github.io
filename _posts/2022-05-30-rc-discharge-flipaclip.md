@@ -23,6 +23,8 @@ Here I have tried to demostrate the analogy of a simple capacitor discharging an
 
 ## Animation
 
-![Animation video](assets/videos/RC_Discharge_FlipAClip.mp4)
+$ x = a^2 + b^2 $
+
+<video src="/assets/videos/RC_Discharge_FlipAClip.mp4" controls="controls" style="max-width: 730px;"><video>
 
 This was made quite painstakingly using the app, "Flip A Clip". Im not really a good artist so its quite shabby in places.
