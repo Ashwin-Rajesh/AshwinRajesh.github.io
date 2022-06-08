@@ -29,4 +29,6 @@ $$ \latex test $$
 
 The discharging is determined by the equation
 
+Inside head now! $$aaaa$$
+
 $$ V_C + C.\frac{dV_C}{dt} = V_inp $$
