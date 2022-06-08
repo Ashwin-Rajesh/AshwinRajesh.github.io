@@ -23,12 +23,10 @@ Here I have tried to demostrate the analogy of a simple capacitor discharging an
 
 ## Animation
 
-$ \latex test $
+$$ \latex test $$
 
 <video src="/assets/videos/RC_Discharge_FlipAClip.mp4" controls="controls" style="max-width: 730px;"></video>
 
 The discharging is determined by the equation
-
-$ \latex test $
 
 $$ V_C + C.\frac{dV_C}{dt} = V_inp $$
